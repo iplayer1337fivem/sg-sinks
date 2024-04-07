@@ -17,6 +17,14 @@ Locals = {
         ['ErrorTitle'] = "Fout!",
         ['ErrorDescription'] = "Er is iets misgegaan met het wassen van je handen...",
     },
+    ['da'] = { -- Turkish
+        ['TargetLabel'] = "Skyl hænder",
+        ['ProgressLabel'] = "Vasker hænder...",
+        ['SuccessTitle'] = "De bliver rene",
+        ['SuccessDescription'] = "De er nu ved at returnere til et hygiejnisk acceptabelt niveau.",
+        ['ErrorTitle'] = "Fejl!",
+        ['ErrorDescription'] = "Noget gik galt, husk sæben, og tænd for vandet, prøv igen...",
+    },
     ['de'] = { -- German/Deutsch
         ['TargetLabel'] = "Waschen",
         ['ProgressLabel'] = "Hände waschen...",
