@@ -2,12 +2,12 @@ Locals = {}
 
 Locals = {
     ['en'] = { -- English
-        ['TargetLabel'] = "Wash",
-        ['ProgressLabel'] = "Washing hands...",
-        ['SuccessTitle'] = "Success!",
-        ['SuccessDescription'] = "You've successfully washed your hands, they're now as shiny as a diamond.",
-        ['ErrorTitle'] = "Error!",
-        ['ErrorDescription'] = "Something went wrong with cleaning your hands...",
+        ['TargetLabel'] = "Vask",
+        ['ProgressLabel'] = "Vask hænder...",
+        ['SuccessTitle'] = "Flot!",
+        ['SuccessDescription'] = "Så er dine hænder rene, og klar til noget beskidt.",
+        ['ErrorTitle'] = "fejl!",
+        ['ErrorDescription'] = "Noget gik galt, husk at tænd for vandet....",
     },
     ['nl'] = { -- Dutch/Nederlands
         ['TargetLabel'] = "Wassen",
